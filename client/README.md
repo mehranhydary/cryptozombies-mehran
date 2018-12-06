@@ -1,9 +1,9 @@
 ## React JS Front End Application for Cryptozombies 
 
-# Web3
+### Web3
 
-# Smart Contracts
+### Smart Contracts
 
-# Truffle
+### Truffle
 
-# React Configuration
+### React Configuration
