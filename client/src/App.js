@@ -1,9 +1,13 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import './utils/getWeb3.js'
 
 class App extends Component {
-  render() {
+  constructor () {
+    
+  }
+  render () {
     return (
       <div className="App">
         <header className="App-header">
