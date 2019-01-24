@@ -11,13 +11,13 @@ class App extends Component {
     }
   }
   componentDidMount () {
-    getWeb3
-      .then(results => {
-        console.log(results)
-        this.setState ({
-          web3: results.web3
-        })
-      })
+    // getWeb3
+    //   .then(results => {
+    //     console.log(results)
+    //     this.setState ({
+    //       web3: results.web3
+    //     })
+    //   })
   }
   render () {
     return (
